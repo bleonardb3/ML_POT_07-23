@@ -11,4 +11,4 @@ Work with IBM's Watson Studio in this workshop to build, train, and test machine
 1. [Lab-5](Lab-5) - This lab consists of two parts. The first part will demonstrate the new and exciting AutoAI capability to build and deploy an optimized model based on the Titanic data set. The second part will deploy an application using the IBM Cloud DevOps toolchain that will invoke the deployed model to predict whether a passenger would have survived. 
 1. [Lab-6](Lab-6) - This lab will feature the Watson Studio Data Refinery to demonstrate data profiling, visualization, and data preparation. 
 1. [Lab-7](Lab-7) - This lab will feature the Watson Studio SPSS modeler to demonstrate visual drag and drop creation of a machine learning model. 
-1. [Lab-8](Lab-8) - This lab will demonstrate Watson Machine Learning deployment of a Machine Learning model, and DevOps to build an application that invokes the deployed model.   
+1. [Lab-8](Lab-8) - 
