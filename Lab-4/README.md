@@ -23,10 +23,10 @@ J. Stallkamp, M. Schlipsing, J. Salmen, and C. Igel. The German Traffic Sign Rec
 
 ## Objectives:
 
-Upon completing the lab, you will learn:
+Upon completing the lab, you will learn how to:
 
-    How to load a Tensorflow trained model
-    How to create an ART classifier object using the loaded model
-    How to perfom an adversarial attack
-    How to perfom a defense to make sure manipulated images can still be classified correctly
+1. load a Tensorflow trained model
+1. create an ART classifier object using the loaded model
+1. perfom an adversarial attack
+1. perfom a defense to make sure manipulated images can still be classified correctly
 
