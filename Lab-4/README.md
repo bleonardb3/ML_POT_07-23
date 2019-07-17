@@ -22,7 +22,7 @@ J. Stallkamp, M. Schlipsing, J. Salmen, and C. Igel. The German Traffic Sign Rec
     pages = {1453--1460}
 }
 
-## Objectives:
+## Objectives
 
 Upon completing the lab, you will learn how to:
 
