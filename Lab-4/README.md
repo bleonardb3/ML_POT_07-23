@@ -1,5 +1,6 @@
+# Lab-4: Adversarial Robustness Toolbox 
 
-## Introduction:
+## Introduction
 
 ART is a library developed by "IBM Research" which is dedicated to adversarial machine learning. Its purpose is to allow rapid crafting and analysis of attacks and defense methods for machine learning models. ART provides an implementation for many state-of-the-art methods for attacking and defending classifiers. See below links for more information on ART. 
 
