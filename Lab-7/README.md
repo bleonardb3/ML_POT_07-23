@@ -1,4 +1,4 @@
-# Lab-7 Watson Studio SPSS Modeler Lab
+# Lab-7: Watson Studio SPSS Modeler Lab
 
 ## Introduction: 
 
