@@ -1,4 +1,4 @@
-# Lab-5 AutoAI + DevOps
+# Lab-5: AutoAI + DevOps
 
 ## Introduction: 
 
