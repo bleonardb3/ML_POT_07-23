@@ -1,4 +1,4 @@
-# Lab-4: Adversarial Robustness Toolbox 
+# Lab-4: Adversarial Robustness Toolbox (ART)
 
 ## Introduction
 
