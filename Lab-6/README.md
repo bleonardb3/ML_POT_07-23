@@ -1,4 +1,4 @@
-# Lab-6 Watson Studio Data Refinery Lab
+# Lab-6: Watson Studio Data Refinery Lab
 
 ## Introduction
 In this lab, you will use the Watson Studio Data Refinery to profile data, visualize data, and prepare data for modeling. You will be using the Titanic data set.  
