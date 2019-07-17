@@ -30,3 +30,8 @@ Upon completing the lab, you will learn how to:
 1. perfom an adversarial attack
 1. perfom a defense to make sure manipulated images can still be classified correctly
 
+### Step 1.  Please click on the link below to download the instructions to your machine.
+
+[Instructions](https://github.com/bleonardb3/ML_POT_07-23/raw/master/Lab-4/ARTv1.0.pdf).
+
+
