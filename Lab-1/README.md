@@ -1,5 +1,5 @@
 
-# Lab-1 - Setup Environment
+# Lab-1: Setup Environment
 
 ## Introduction:
 
