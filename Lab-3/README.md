@@ -1,4 +1,4 @@
-# Lab-3 - Build, Train, Save, Deploy, and Test a Neural Network Model using Watson Studio
+# Lab-3: Build, Train, Save, Deploy, and Test a Neural Network Model using Watson Studio
 
 ## Introduction:
 
